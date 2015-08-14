@@ -1,7 +1,8 @@
 # Customer Attributes Manager
 
-Used to CRUD Customer Attributes in the backend.
-The attributes are added in the Account Information tab.
+* Used to CRUD Customer Attributes in the backend.
+* The attributes are added in the Account Information tab.
+* You add attributes on Customers->Attributes Manager
 
 ### Install with Modgit
 
